@@ -1,6 +1,6 @@
 ## Minecraft server
 This example defines a basic setup  for a Minecraft server . More details on the Minecraft server docker image can be found [here](https://github.com/itzg/docker-minecraft-server/blob/master/README.md).
-
+ 
 Project structure:
 ```
 .
